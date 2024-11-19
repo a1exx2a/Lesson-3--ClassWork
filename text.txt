@@ -1,1 +1,2 @@
 Текст в develop branch
+Текст в feature1 branch
